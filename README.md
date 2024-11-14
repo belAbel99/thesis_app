@@ -1,6 +1,5 @@
-
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
+ 🤸 [Quick Start](#quick-start)
+ 🕸️ [Snippets (Code to Copy)](#snippets)
 
 ## things used
 - Next.js
